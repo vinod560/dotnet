@@ -1,5 +1,5 @@
 <Project>
   <PropertyGroup>
-    <MSBuildWarningsAsMessages>NETSDK1069</MSBuildWarningsAsMessages>
+    <MSBuildWarningsAsMessages>NETSDK1068</MSBuildWarningsAsMessages>
   </PropertyGroup>
 </Project>
